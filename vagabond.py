@@ -43,8 +43,8 @@ def generate_images(chapter_str):
         image_url = 47
         url_min = 43
         url_max = 46
-    elif chapter == 224:
-        continue
+    # elif chapter == 224:
+    #     pass
     else:
         url = f"https://scans-hot.leanbox.us/manga/Vagabond/{chapter_str}-001.png"
         image_url = 49
