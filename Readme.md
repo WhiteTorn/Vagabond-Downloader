@@ -1,6 +1,6 @@
 # Vagabond Manga Downloader
 
-[<img src="https://w.wallhaven.cc/full/8x/wallhaven-8xkjdj.png">]
+<img src="https://w.wallhaven.cc/full/8x/wallhaven-8xkjdj.png">
 
 this little script will download for you any available chapter of vagabond manga, just input number and wait for it. (Limit 0 from 327) \
 enjoy.
